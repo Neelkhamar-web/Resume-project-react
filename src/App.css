@@ -1,0 +1,32 @@
+.container-div{
+  display: flex;
+
+}
+.content{
+  width:100%
+}
+.dropdown{
+  min-height:800px
+}
+
+.post-lists{
+  display: flex;
+}
+.postcard{
+  margin:10px;
+
+}
+.card-body{
+  background-color: rgb(98, 65, 118);
+ 
+}
+.card-body p{
+  color: black;
+}
+.card-body h5{
+  color: chartreuse;
+}
+
+.tag-reaction{
+  color: black;
+}
